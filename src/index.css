@@ -1,0 +1,28 @@
+
+
+.operator {
+  background-color: #3525c6; 
+}
+
+.operator:hover {
+  background-color: #9c2f2f; 
+}
+.calculator-heading {
+  font-family: 'Arial', sans-serif;
+  font-size: 36px; 
+  color: #161313; 
+  text-align: center; 
+  margin-bottom: 20px;  
+  background-color: #0e85da; 
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2); 
+}
+
+.calculator-heading:hover {
+  transform: scale(1.05); 
+}
+body {
+  background-color: #4ee1ef; 
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 20px;
+}
